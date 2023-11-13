@@ -1,7 +1,7 @@
 import React from "react"
 
-const page = () => {
-  return <div>test</div>
+const IssuesPage = () => {
+  return <div>ini issue</div>
 }
 
-export default page
+export default IssuesPage
