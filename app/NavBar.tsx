@@ -18,6 +18,10 @@ const NavBar = () => {
       label: "Issues",
       href: "/issues",
     },
+    {
+      label: "Test",
+      href: "/test",
+    },
   ]
 
   return (
